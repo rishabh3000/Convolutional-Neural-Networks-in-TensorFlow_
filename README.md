@@ -1,2 +1,2 @@
 # Convolutional-Neural-Networks-in-TensorFlow_
-Prediction of steak, pizza using CNN
+Prediction of DS_store, steak, pizza using CNN
